@@ -1,0 +1,11 @@
+.board {
+  display: flex;
+  gap: 20px;
+}
+
+.column {
+  width: 300px;
+  min-height: 400 px;
+  border: 1px solic #ccc;
+  padding: 20px;
+}
