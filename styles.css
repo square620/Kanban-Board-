@@ -6,6 +6,6 @@
 .column {
   width: 300px;
   min-height: 400 px;
-  border: 1px solic #ccc;
+  border: 1px solid #ccc;
   padding: 20px;
 }
